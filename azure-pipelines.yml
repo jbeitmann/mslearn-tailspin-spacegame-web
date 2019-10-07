@@ -1,7 +1,3 @@
 pool:
-  vmImage:'Ubuntu-16.04'
-<<<<<<< HEAD
+  vmImage: 'Ubuntu-16.04'
   
-=======
-  
->>>>>>> 7630d643ecc653e3182832589f6b777162ee73c3
